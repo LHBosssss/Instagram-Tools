@@ -1,2 +1,2 @@
 # Instagram Tools
- Tweak for Instagram
+ Tweak for disable mark as seen Story in Instagram App
