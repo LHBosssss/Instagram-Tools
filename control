@@ -1,0 +1,9 @@
+Package: com.dlh.instagramtools
+Name: Instagram Tools
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: dlh
+Author: dlh
+Section: Tweaks
